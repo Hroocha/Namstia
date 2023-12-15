@@ -18,6 +18,7 @@ public class Main {
         System.out.println();
         System.out.println(hashmap.get(null));
         System.out.println(hashmap.get(0));
+        System.out.println();
 
 // если много коллизий
 
