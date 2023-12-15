@@ -11,7 +11,7 @@ public class Main {
         hashmap.put(null,4);
         hashmap.put(0,6);
         hashmap.put(6,5);
-//        hashmap.remove(6);
+        hashmap.remove(6);
 
         System.out.println(hashmap.keys);
         System.out.println(hashmap.containsValue(5));
